@@ -49,7 +49,3 @@
         </a>
     </div>
 @endsection
-
-
-{{-- tag img rouded-full e overflow-hidden imagem redonda --}}
-{{-- objet-a imagem fica prenechida sem distorcer --}}
