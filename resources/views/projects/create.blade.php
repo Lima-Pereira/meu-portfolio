@@ -16,7 +16,7 @@
                            focus:ring-blue-500 focus:border-blue-500 outline-none transition">
             </div>
             {{-- Descrição do projeto --}}
-             <
+             
             <div>
                 <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Descrição</label>
                 <textarea name="description" rows="3" required
